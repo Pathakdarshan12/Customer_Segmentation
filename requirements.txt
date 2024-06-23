@@ -1,0 +1,28 @@
+# Core Libraries
+numpy==1.23.5
+pandas==1.5.3
+ydata-profiling==4.0.0
+joblib==1.3.1
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# Scikit-Learn for Machine Learning
+scikit-learn==1.2.2
+
+# Yellowbrick for Visualizations
+yellowbrick==1.5
+
+# MLxtend for Association Rule Mining
+mlxtend==0.22.0
+
+# NetworkX for Network Analysis
+networkx==3.1
+
+# IPython for Display
+ipython==8.13.2
+
+# Suppress Warnings
+warnings
+
+# Any other essential libraries
