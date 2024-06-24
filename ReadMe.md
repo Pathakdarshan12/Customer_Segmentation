@@ -1,7 +1,13 @@
 # Customer Segmentation & Association Project
 
-<img src="assets/customer_segmentation.jpg" />
+<p align="center">
+    <img src="assets/customer_segmentation.jpg" width="90%"/>
+</p>
 
+
+<p align="center">
+    <img src="assets/Customer_Segmentation.png" width="90%"/>
+</p>
 
 ## Table of Contents
 1. [Introduction](#introduction)
